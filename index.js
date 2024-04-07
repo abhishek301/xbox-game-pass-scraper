@@ -5,19 +5,11 @@ const { Client } = require('pg');
 
 const port = 3000; // default port to connect to with localhost
 
-// const db = new Client({
-//   user: 'YOUR_POSTGREQL_USER', // replace this string with your own username
-//   host: 'localhost',
-//   database: 'YOUR_DB_NAME', // replace this string with your own database name
-//   password: 'YOUR_PASSWORD', // replace this string with your own password
-//   port: 5432, // Default PostgreSQL port
-// });
-
 const db = new Client({
-  user: 'postgres',
+  user: 'YOUR_POSTGREQL_USER', // replace this string with your own username
   host: 'localhost',
-  database: 'newDB',
-  password: '1234',
+  database: 'YOUR_DB_NAME', // replace this string with your own database name
+  password: 'YOUR_PASSWORD', // replace this string with your own password
   port: 5432, // Default PostgreSQL port
 });
 
