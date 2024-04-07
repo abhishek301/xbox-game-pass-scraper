@@ -184,3 +184,5 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 
 ##  📝 License
 This project is licensed under the MIT License.
+
+To enhance SEO visibility, this project is tagged with relevant keywords such as "Xbox API," "Xbox Game Pass API," "Xbox games API," and "Xbox game API." These keywords are strategically included to improve the project's discoverability on search engines for users seeking Xbox Game Pass-related API solutions.
